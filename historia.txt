@@ -1,2 +1,3 @@
 Esta es una  sexta prueba del archivo historia.
-Esto tiene la finalidad de poder ver los cambios que se están realizando en el archivo.
+Esto tiene la finalidad de poder ver los cambios que yo estoy  realizando en el archivo.
+Para tener un mejor entendimiento de git.
