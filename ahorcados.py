@@ -134,5 +134,6 @@ def run():
 
 
 if __name__ == '__main__':
-    print('B I E N V E N I D O S  A  A H O R C A D O S')
+    print('B I E N V E N I D O S  AL J U E G O  DE   A H O R C A D O S')
+    print('U N  R E T O  A  LA  I L U S T R A C I O N')
     run()
