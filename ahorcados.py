@@ -129,7 +129,7 @@ def run():
             hidden_word.index('-')
         except ValueError:
             print('')
-            print('¡Felicidades! Ganaste. La palabra es: {}'.format(word))
+            print('¡Congratulaciones, eres un ganador¡. La palabra es: {}'.format(word))
             break
 
 
