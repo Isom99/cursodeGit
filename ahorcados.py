@@ -135,5 +135,5 @@ def run():
 
 if __name__ == '__main__':
     print('B I E N V E N I D O S  AL J U E G O  DE   A H O R C A D O S')
-    print('U N  R E T O  A  LA  I L U S T R A C I O N')
+    print('U N  R E T O  A  LA  I L U S T R A C I O N  Y  A L  C O N O C I M I E N  T  O')
     run()
