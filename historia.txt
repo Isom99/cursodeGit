@@ -3,4 +3,5 @@ Esto tiene la finalidad de poder ver los cambios que yo estoy  realizando en el 
 Para tener un mejor entendimiento de git.
 Esta prueba la voy a hacer para probar La manera en la que funciona git desde mi máquina
 Aunque a veces me quejo, me gusta mucho aprender.
-Como me equivoqué aquí va otra
+Como me equivoqué aquí va otra.
+Agrergé una nueva linea para ver el cambio.
